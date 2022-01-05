@@ -1,0 +1,11 @@
+{
+	"ownername":"ZeeoneOfc",
+	"ownernumber":"62887435047326",
+	"botname":"Haruka-Bot",
+	"thumbnail":"./settings/haruka.jpg",
+	"limit": {
+		"free":20,
+		"premium":1000
+	},
+	"session_name":"./session.json"
+}

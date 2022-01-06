@@ -1,10 +1,10 @@
 {
-	"ownername":"ZeeoneOfc",
+	"ownername":"Sophia",
 	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
-	"thumbnail":"./settings/haruka.jpg",
+	"botname":"Takanashi Rikka",
+	"thumbnail":"./settings/IMG_20220101_115940_693.jpg",
 	"limit": {
-		"free":20,
+		"free":10,
 		"premium":1000
 	},
 	"session_name":"./session.json"

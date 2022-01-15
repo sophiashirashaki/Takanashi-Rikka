@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/sophiashirashaki/Takanashi-rikka/blob/v1/settings/haruka.jpg" alt="Takanashi Rikka" width="200"/>
+<img src="https://github.com/sophiashirashaki/Takanashi-rikka/blob/v1/settings/IMG_20220101_115940_693.jpg
+t="Takanashi Rikka" width="200"/>
 
 <p align="center">
     <a href="https://sophiashirashaki.github.io">

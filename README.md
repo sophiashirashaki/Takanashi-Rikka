@@ -30,7 +30,7 @@ Click the deploy icon below !
 > git clone https://github.com/sophiashirashaki/Haruka.git
 > cd Haruka
 > npm install
-> node haruka.js
+> node rikka.js
 ```
 
 ## settings

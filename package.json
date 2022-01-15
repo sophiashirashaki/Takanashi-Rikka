@@ -1,16 +1,16 @@
 {
-  "name": "Haruka",
+  "name": "Rikka",
   "version": "1.0.0",
   "description": "Not yet",
-  "main": "haruka.js",
+  "main": "rikka.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node haruka.js"
+    "start": "node rikka.js"
   },
-  "author": "ZEEONE",
+  "author": "Sophia",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3", 
     "async": "^3.2.0",
@@ -35,10 +35,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc/Haruka.git"
+    "url": "git+https://github.com/sophiashirashaki/Takanashi-Rikka.git"
   },
   "bugs": {
-    "url": "https://github.com/zeeoneofc/Haruka/issues"
+    "url": "https://github.com/sophiashirashaki/Takanashi-Rikka/issue"
   },
-  "homepage": "https://github.com/zeeoneofc/Haruka#readme"
+  "homepage": "https://github.com/sophiashirashaki/Takanashi-rikka#readme"
 }

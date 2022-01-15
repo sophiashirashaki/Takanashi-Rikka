@@ -1,10 +1,10 @@
 /*
-# Haruka - UserBot
-# Copyright (C) 2021 Haruka-Bot Created By ZeeoneOfc
+# Rikka - UserBot
+# Copyright (C) 2021 Rikka-Bot Created By Sophia
 #
-# This file is a part of < https://github.com/zeeoneofc/Haruka/ >
+# This file is a part of < https://github.com/sophiashirashaki/Takanashi-Rikka/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/zeeoneofc/Haruka/blob/main/LICENSE/>.
+# <https://github.com/sophiashirashaki/Takanashi-Rikka/blob/main/LICENSE>.
 */ 
 
 // WhatsApp api

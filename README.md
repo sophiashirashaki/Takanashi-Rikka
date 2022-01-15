@@ -41,8 +41,8 @@ You can edit owner and other in `'./settings/config.json'`
 	"ownername":"none tipe",
 	"ownernumber":"none tipe",
 	"botname":"Takanashi-rikka",
-	"thumbnail":"none tipe",
-	"session_name":"none tipe"
+	"thumbnail":"IMG_20220101_115940_693.jpg",
+	"session_name":"./settings/string.py"
 }
 ```
 # Thanks To

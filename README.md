@@ -46,6 +46,8 @@ You can edit owner and other in `'./settings/config.json'`
 }
 ```
 # Thanks To
+- Sophia (Owner + Developer)
+- Zeoone OFC (Dev)
 - My god & my parents
 - Penyedia module
 - Teman" yang selalu support saya

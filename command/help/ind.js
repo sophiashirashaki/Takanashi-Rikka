@@ -5,10 +5,10 @@ exports.admin = (groupName) =>{
 	return`🙅‍♀️ Command khusus admin ${groupName}`
 	}
 exports.adminB = () =>{
-	return`⚠️ Bot bukan admin grup`
+	return`⚠️ Bot bukan admin grup Sayang`
 	}
 exports.err = () =>{
-	return`⚠️ Fitur ini sedang eror !`
+	return`⚠️ Fitur ini sedang error! Hubungi owner untuk memperbaiki !`
 	}
 exports.group = () =>{
 	return`🙅‍♀️ Command khusus di dalam group`

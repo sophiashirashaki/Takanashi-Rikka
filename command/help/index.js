@@ -1,1 +1,1 @@
-exports.ind = require('./ind')
+xports.ind = require('./ind')

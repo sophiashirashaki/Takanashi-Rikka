@@ -42,7 +42,7 @@ You can edit owner and other in `'./settings/config.json'`
 	"ownernumber":"none tipe",
 	"botname":"Takanashi-rikka",
 	"thumbnail":"IMG_20220101_115940_693.jpg",
-	"session_name":"./settings/string.py"
+	"session_name":"./settings/session.json"
 }
 ```
 # Thanks To

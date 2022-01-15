@@ -45,6 +45,9 @@ You can edit owner and other in `'./settings/config.json'`
 	"session_name":"./settings/session.json"
 }
 ```
+# 📍Note
+Jika kamu ada masalah dalam membuat bot nya, bisa tanya ke saya di [Telegram](https://t.me/erosei_1)
+
 # Thanks To
 - Sophia (Owner + Developer)
 - Zeoone OFC (Dev)

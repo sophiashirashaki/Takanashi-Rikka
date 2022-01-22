@@ -28,7 +28,7 @@ Click the deploy icon below !
 > apt update && apt upgrade
 > pkg install libweb nodejs git ffmpeg
 > git clone https://github.com/sophiashirashaki/Haruka.git
-> cd Haruka
+> cd Takanashi-Rikka
 > npm install
 > node rikka.js
 ```
